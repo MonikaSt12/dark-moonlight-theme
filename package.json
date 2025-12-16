@@ -1,0 +1,47 @@
+{
+  "name": "dark-moonlight-theme",
+  "displayName": "Dark Moonlight",
+  "description": "Dark Modern theme with cool moonlight accents instead of blue",
+  "version": "1.0.0",
+  "publisher": "monika",
+  "author": {
+    "name": "Monika"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "moonlight",
+    "minimal",
+    "dark modern",
+    "gray",
+    "color theme"
+  ],
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monika/dark-moonlight-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/monika/dark-moonlight-theme/issues"
+  },
+  "homepage": "https://github.com/monika/dark-moonlight-theme#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Moonlight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-moonlight-color-theme.json"
+      }
+    ]
+  }
+}
