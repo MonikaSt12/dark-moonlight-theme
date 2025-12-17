@@ -1,0 +1,10 @@
+.git
+.gitignore
+.github
+.vscode
+*.md
+!readme.md
+!changelog.md
+node_modules
+*.vsix
+.DS_Store
