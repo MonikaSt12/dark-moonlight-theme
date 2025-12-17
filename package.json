@@ -29,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/monika/dark-moonlight-theme"
+    "url": "https://github.com/MonikaSt12/dark-moonlight-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/monika/dark-moonlight-theme/issues"
+    "url": "https://github.com/MonikaSt12/dark-moonlight-theme/issues"
   },
-  "homepage": "https://github.com/monika/dark-moonlight-theme#readme",
+  "homepage": "https://github.com/MonikaSt12/dark-moonlight-theme#readme",
   "contributes": {
     "themes": [
       {
