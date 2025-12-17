@@ -9,11 +9,9 @@ A dark VS Code theme based on Dark Modern, with all blue accent colors replaced 
 - **Subtle and calm** - Reduced visual noise with neutral accent colors
 - **Complete coverage** - UI elements, syntax highlighting, terminal colors, and semantic tokens
 
-## Screenshots
+## Screenshot
 
 ![Dark Moonlight Theme](images/screenshot.png)
-
-*Add your screenshots here*
 
 ## Installation
 
