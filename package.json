@@ -22,7 +22,20 @@
     "minimal",
     "dark modern",
     "gray",
-    "color theme"
+    "color theme",
+    "night",
+    "moon",
+    "neutral",
+    "monochrome",
+    "subtle",
+    "muted",
+    "soft",
+    "elegant",
+    "clean",
+    "low contrast",
+    "eye friendly",
+    "syntax highlighting",
+    "editor theme"
   ],
   "galleryBanner": {
     "color": "#1e1e1e",

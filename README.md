@@ -1,6 +1,6 @@
 # Dark Moonlight
 
-A dark VS Code theme based on Dark Modern, with all blue accent colors replaced by soft moonlight gray-white (`#e0e6f0`).
+A dark VS Code theme based on Dark Modern, with all blue accent colors replaced by soft moonlight gray-white (`#e0e6f0`). Features beautiful markdown support and SwiftUI-optimized syntax highlighting.
 
 ## Features
 
@@ -9,9 +9,22 @@ A dark VS Code theme based on Dark Modern, with all blue accent colors replaced 
 - **Subtle and calm** - Reduced visual noise with neutral accent colors
 - **Complete coverage** - UI elements, syntax highlighting, terminal colors, and semantic tokens
 
-## Screenshot
+## Screenshots
 
-![Dark Moonlight Theme](images/screenshot.png)
+### Markdown Documentation
+*Beautiful formatting with the Deng Ming-Dao philosophical quote*
+
+![Markdown Documentation](images/screenshot-markdown.png)
+
+### Swift Error Handling
+*Enums and switch statements with clear syntax highlighting*
+
+![Swift Error Handling](images/screenshot-swift-errors.png)
+
+### Swift ViewModel
+*Async functions, initialization, and Combine patterns*
+
+![Swift ViewModel](images/screenshot-swift-viewmodel.png)
 
 ## Installation
 
